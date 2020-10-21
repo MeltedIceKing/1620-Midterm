@@ -27,6 +27,6 @@ img{
 .menu{
     text-align: center;
 }
-.Breakfast{
-    color: teal;
+a:visited{
+    color: silver;
 }
