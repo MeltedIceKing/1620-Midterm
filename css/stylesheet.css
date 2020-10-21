@@ -20,3 +20,13 @@ nav ul{
 main{
     background-color: #e7dec8;
 }
+img{
+    float: left;
+    padding-right: 10px;
+}
+.menu{
+    text-align: center;
+}
+.Breakfast{
+    color: teal;
+}
