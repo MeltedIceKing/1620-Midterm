@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #cbaf87;
+    padding-top: 170px;
+    color: #30475e;
+}
+header{
+    background-color: #7e8a97;
+    color: #30475e;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    z-index: 1;
+}
+nav ul{
+    list-style-type: none;
+}
+main{
+    background-color: #e7dec8;
+}
+img{
+    float: left;
+    padding-right: 10px;
+}
+.menu{
+    text-align: center;
+}
+.Breakfast{
+    color: teal;
+}
